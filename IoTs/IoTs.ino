@@ -12,12 +12,14 @@ DHT dht;
 // Blynk Setup
 char auth[] = "tNg710OafaXPWxoEf-4T3JEpEDY-Hds-";
 // WiFi Setup.
-/*
+
 char ssid[] = "Bảo Anh";
 char pass[] = "baoanh2103";
-*/
+
+/*
 char ssid[] = "iPhone (2)";
 char pass[] = "MinhDuc12";
+*/
 #define BLYNK_DEVICE_NAME "ASSIGNMENTSMARTCAGE"
 // ###################################################################
 
